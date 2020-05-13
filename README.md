@@ -1,5 +1,5 @@
 # Sentiment-Analysis using SOA vs ML
-Sentiment Classification of News Headlines on India in the US Newspaper:Semantic Orientation Approach vs Machine Learning.
+Sentiment Classification of News Headlines on India in the US Newspaper: Semantic Orientation Approach vs Machine Learning.
 In this project Senetiment analysis on News headline is done using Semantic Oriented Approach and Machine Learning Approch.
 In Semantic Oriented Approch SentiWordNet Lexicon with WordNet is used to get sentiment score of each synset.
 In Machine learning algorithm SVM, Random Forest, Naive Bayes, RNN, and LSTM algorithms are used.
